@@ -1,389 +1,177 @@
-# HAARP - High-frequency Active Auroral Research Program Conspiracy Theories
+# HAARP Conspiracy Theories
 
-## Version Information
-- **Version**: 1.0.0
-- **Last Updated**: 2026-01-14
-- **Category**: CONSPIRACY_THEORY
-- **Location**: Gakona, Alaska, USA
-- **Status**: Facility real; conspiracy claims unsubstantiated
+> HAARP is a real ionospheric research facility near Gakona, Alaska, but it has become the focus of a long-running set of conspiracy theories that allege it is a secret weather-modification, mind-control, or earthquake-generation weapon.
 
-## Description
-
-HAARP (High-frequency Active Auroral Research Program) is a real scientific research facility in Gakona, Alaska, that has become the subject of numerous conspiracy theories claiming it serves as a secret weapon for weather modification, mind control, earthquake generation, or other nefarious purposes. The facility uses high-frequency radio transmitters to study the ionosphere (upper atmosphere) for scientific and communications purposes, but conspiracy theorists claim these capabilities are cover for covert military applications.
-
-**IMPORTANT CLARIFICATION**: HAARP is a real, operational scientific facility. The conspiracy theories surrounding it lack credible evidence. While the facility does study the ionosphere and has military research applications (improving communications, detecting submarines, etc.), claims about weather weapons, mind control, or earthquake generation are not supported by scientific evidence or documented capability.
-
-This documentation examines what HAARP actually is, what it can and cannot do, the various conspiracy claims, why these theories emerged, how they spread, and the scientific facts that address the theories.
-
-## What HAARP Actually Is
-
-### Official Purpose and Function
-
-**Facility Basics**:
-- **Location**: Gakona, Alaska (near Copper Center)
-- **Operated by**: Originally U.S. Air Force/Navy/DARPA; transferred to University of Alaska Fairbanks in 2015
-- **Primary instrument**: Ionospheric Research Instrument (IRI) - array of 180 high-frequency antennas
-- **Power**: 3.6 megawatts total (often compared to radio stations)
-- **Purpose**: Study ionospheric properties, improve radio communications
-
-**Scientific Research**:
-- **Ionosphere study**: Upper atmosphere 50-600 miles up
-- **Radio wave propagation**: How signals travel
-- **Communications enhancement**: Improving radio communications
-- **Space weather**: Solar activity effects
-- **Fundamental physics**: Plasma physics research
-
-**Stated Applications**:
-- Improving military communications
-- Detecting underground facilities (using natural radiation reflections)
-- Submarine communication improvements
-- Over-the-horizon radar enhancement
-- Space weather forecasting
-- Civilian communication improvements
-
-### How It Works
-
-**Technology**:
-1. **Phased array antenna**: 180 antennas across 33 acres
-2. **High-frequency transmission**: 2.8-10 MHz range
-3. **Ionospheric heating**: Radio waves heat small volume of ionosphere
-4. **Observation**: Instruments measure ionospheric responses
-5. **Scientific analysis**: Data used for understanding ionosphere
-
-**Power Reality**:
-- 3.6 MW total power
-- Spread over large area
-- Most power absorbed or scattered by atmosphere
-- Tiny effect compared to natural phenomena
-- Comparable to commercial radio stations
-
-**Actual Capabilities**:
-- Heat small ionospheric volume few degrees
-- Study plasma physics
-- Test communication techniques
-- Measure ionospheric properties
-- Cannot significantly affect weather, mind, or seismic activity
-
-## Conspiracy Theory Claims
-
-### Weather Modification Claims
-
-**Allegations**:
-- HAARP can control weather patterns
-- Create or direct hurricanes
-- Cause droughts or floods
-- Modify jet streams
-- Generate or stop rain
-- Control climate globally
-
-**Reality**:
-- **Power insufficient**: HAARP's 3.6 MW nothing compared to weather systems (hurricanes: 10^13 watts; global weather: 10^17 watts)
-- **Wrong altitude**: Ionosphere (50-600 miles up) vs. weather (0-10 miles up, troposphere)
-- **Wrong mechanism**: Ionospheric heating doesn't affect troposphere significantly
-- **No scientific basis**: No known physics allows radio waves to control weather from ionosphere
-- **Natural variations**: Weather changes naturally, not from HAARP
-
-**Scientific Facts**:
-- Weather occurs in troposphere (lowest atmosphere)
-- HAARP affects ionosphere (much higher)
-- Energy scale mismatched by orders of magnitude
-- No demonstrated mechanism
-- Weather modification research (real) uses completely different methods
-
-### Earthquake Generation Claims
-
-**Allegations**:
-- HAARP can trigger earthquakes
-- Blamed for specific earthquakes (Haiti 2010, Japan 2011, etc.)
-- Resonates tectonic plates
-- "Tesla death ray" technology
-- Seismic weapon
-
-**Reality**:
-- **Tectonic energy scale**: Earthquakes release 10^15 - 10^18 joules; HAARP total energy insignificant
-- **Wrong type of energy**: Radio waves don't mechanically stress rocks
-- **No mechanism**: No known physics for radio-to-seismic conversion
-- **Depth issue**: Earthquakes occur miles underground; ionosphere heating hundreds of miles up
-- **Timeline**: Many blamed earthquakes occurred before HAARP existed
-
-**Seismology Facts**:
-- Earthquakes from tectonic stress accumulated over decades/centuries
-- Human-caused earthquakes (fracking, dams, mining) require direct mechanical stress on faults
-- Energy requirements for earthquake generation astronomically beyond HAARP
-- No correlation between HAARP operations and seismic activity
-
-### Mind Control Claims
-
-**Allegations**:
-- HAARP can control human minds
-- Broadcasts mind control signals
-- Manipulates moods and behavior
-- Causes depression, aggression, or compliance
-- Population control weapon
-
-**Reality**:
-- **Frequency**: HAARP operates 2.8-10 MHz; brainwaves 0.5-100 Hz (different by orders of magnitude)
-- **Power**: Signal strength at ground level minimal
-- **Shielding**: Buildings, terrain block signals
-- **Biology**: No demonstrated mechanism for RF at these frequencies affecting cognition
-- **Reproducibility**: No scientific evidence humans can be remotely mind-controlled via radio waves
-
-**Neuroscience Facts**:
-- Brain waves are electrical activity within brain, not susceptible to distant radio control
-- Frequencies completely different
-- Skull provides shielding
-- No demonstrated mind-control technology exists via RF
-- Conspiracy claim confuses correlation with causation
-
-### Other Conspiracy Claims
-
-**Alleged Capabilities**:
-- Communicate with submarines
-- Detect underground bunkers/tunnels
-- Shoot down aircraft
-- Power source for directed energy weapons
-- Create protective shield
-- Portal/dimensional gateway
-- Alter human DNA
-- Kill wildlife
-- Communicate with aliens
-
-**Reality Check**:
-- **Some plausible** (submarine communication research real)
-- **Most implausible** (physics doesn't support)
-- **Some impossible** (portals, DNA alteration via RF)
-- **Exaggerations** (detecting underground, but not weapons-grade capability)
-
-## Origins and Spread of Theories
-
-### How Theories Began
-
-**1990s Emergence**:
-- Nick Begich and Jeane Manning: *Angels Don't Play This HAARP* (1995)
-- Concerns about military weather modification
-- Cold War paranoia carryover
-- Anti-government sentiment
-- Misunderstanding of technology
-
-**Key Figures**:
-- **Nick Begich**: Conspiracy author
-- **Jeane Manning**: Co-author
-- **Various**: Radio hosts, conspiracy theorists amplified
-- **International**: Russia and other nations spread theories
-
-**Contributing Factors**:
-- Secrecy (initial military classification)
-- Remote location
-- Complex technology (public doesn't understand)
-- Military involvement
-- Dual-use research (civilian and military)
-- Science fiction influence (Tesla, weather weapons)
-
-### Amplification Mechanisms
-
-**Media**:
-- Books and documentaries
-- Internet websites
-- Radio shows (Coast to Coast AM, etc.)
-- YouTube videos
-- Social media
-- Foreign propaganda (Russian RT amplified theories)
-
-**Reinforcement**:
-- Confirmation bias
-- Cherry-picking evidence (natural disasters "caused" by HAARP)
-- Lack of scientific literacy
-- Distrust of government/military
-- Pattern recognition (false correlations)
-
-**International Spread**:
-- Russian media heavily promoted HAARP theories
-- Venezuelan President Hugo Chávez blamed HAARP for Haiti earthquake
-- Iranian media claims
-- Used in various nations' propaganda
-
-## Scientific Realities and Limitations
-
-### What HAARP Can Actually Do
-
-**Real Capabilities**:
-1. **Study ionosphere**: Measure properties, behavior
-2. **Improve communications**: Understand radio propagation
-3. **Space weather**: Monitor solar effects
-4. **Research**: Basic plasma physics
-
-**Limited Applications**:
-1. **Submarine communication**: Potential improvements (ELF generation)
-2. **Underground detection**: Using natural VLF reflections (limited)
-3. **Communication disruption**: Theoretical research (limited, not weaponized)
-
-### What HAARP Cannot Do
-
-**Physically Impossible**:
-- **Weather control**: Energy scale and altitude wrong
-- **Earthquake generation**: Mechanism doesn't exist
-- **Mind control**: Frequency and power insufficient
-- **Aircraft destruction**: Not a directed energy weapon
-- **Shields**: Cannot create force fields
-- **Climate alteration**: Scale impossibly small
-
-**Energy Scale Comparison**:
-- HAARP: 3.6 megawatts
-- Hurricane: 10,000,000,000 megawatts
-- Magnitude 8 earthquake: 100,000,000,000 megawatts
-- Solar energy hitting Earth: 174,000,000,000,000 megawatts
-
-### Peer Review and Transparency
-
-**Scientific Oversight**:
-- Published research in peer-reviewed journals
-- University of Alaska operation (since 2015) increases transparency
-- Open houses and tours
-- Scientific community consensus: No evidence of nefarious capabilities
-
-**Declassification**:
-- Facility now civilian
-- Research openly published
-- Tours available
-- Data accessible
-
-## Real Weather Modification Research
-
-### Actual Programs (Not HAARP)
-
-**Historical**:
-- **Cloud seeding**: Silver iodide for rain enhancement
-- **Project Stormfury**: Hurricane modification attempts (1962-1983, abandoned)
-- **Operation Popeye**: Vietnam War rainmaking (successful but limited)
-
-**Current**:
-- Cloud seeding still used (limited effectiveness)
-- Hail suppression attempts
-- Fog dispersal research
-- All use different methods (chemicals, not radio waves)
-- Limited success, not global control
-
-**Science**:
-- Weather modification real but limited
-- Nothing like conspiracy claims
-- Different mechanisms than HAARP
-- Small-scale and unreliable
-
-## Why Theories Persist
-
-### Psychological Factors
-
-**Cognitive**:
-- **Complexity**: HAARP technology hard to understand
-- **Pattern recognition**: Seeing connections where none exist
-- **Motivated reasoning**: Finding evidence for pre-existing beliefs
-- **Confirmation bias**: Ignoring contradictory evidence
-- **Proportionality bias**: Believing big events need big causes
-
-**Social**:
-- **Distrust**: Government and military secrecy
-- **Community**: Conspiracy communities reinforce beliefs
-- **Identity**: Believing makes one feel informed
-- **Media**: Amplification through entertainment media
-
-### Structural Factors
-
-**Real Issues**:
-- Military does conduct secret research
-- Government has lied historically
-- Technology can be dual-use
-- Classification creates information vacuum
-
-**Misunderstanding**:
-- Complex science poorly communicated
-- Media sensationalizes
-- Fiction influences perception
-- Analogies misunderstood (comparing to Tesla, Einstein)
-
-## Addressing the Conspiracies
-
-### Educational Responses
-
-**Scientific Literacy**:
-- Explain how ionosphere differs from troposphere
-- Power scale comparisons
-- Physics of energy transfer
-- Peer review process
-
-**Critical Thinking**:
-- Evaluate sources
-- Check credentials
-- Look for peer review
-- Consider alternative explanations
-- Energy scale analysis
-
-### Official Responses
-
-**U.S. Government**:
-- Declassified information
-- Public tours
-- Published research
-- Transferred to civilian control
-
-**Scientific Community**:
-- Published research
-- Public communication
-- Debunking efforts
-- Educational outreach
-
-## Cultural Impact
-
-### Popular Culture
-- Mentioned in TV shows, movies
-- Conspiracy theory staple
-- Science fiction influence
-- Video games
-- Music references
-
-### International Relations
-- Used in propaganda
-- Blamed by foreign governments
-- Contributes to distrust
-- Complicates scientific cooperation
-
-### Internet Culture
-- Memes and jokes
-- Serious conspiracy forums
-- YouTube content
-- Social media debates
-
-## Conclusion
-
-HAARP represents a case study in how legitimate scientific research can become subject of elaborate conspiracy theories when combined with military involvement, classification, public misunderstanding of complex technology, and pre-existing distrust of government institutions.
-
-**The Facts**:
-- HAARP is real scientific facility
-- Studies ionosphere for communications research
-- Has some military applications (communications)
-- Cannot control weather
-- Cannot cause earthquakes
-- Cannot mind control populations
-- Energy scale and physics don't support conspiracy claims
-
-**Why Theories Exist**:
-- Complex technology + military involvement + secrecy = suspicion
-- Scientific illiteracy enables physics-defying claims
-- Natural disasters need explanations; HAARP becomes scapegoat
-- Government distrust makes theories believable
-- Social media amplifies misinformation
-
-**The Reality**:
-HAARP's actual capabilities are interesting but mundane compared to conspiracy claims. It represents legitimate ionospheric research with some communications applications. The conspiracy theories demonstrate how misunderstanding of science, distrust of institutions, and desire for explanations of natural disasters can create elaborate beliefs unsupported by evidence or physics.
-
-For those interested in actual weather modification, earthquake causes, or atmospheric research, the real science is fascinating enough without needing to invoke impossible conspiracy scenarios.
-
-## Bibliography and References (50+ sources on HAARP research, ionospheric physics, debunking resources, conspiracy theory analysis, etc.)
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
+## Quick Reference
 
-**Related Topics**: [Conspiracy Theories] [Weather Modification] [Ionosphere] [Military Research] [Pseudoscience] [Scientific Literacy] [Alaska] [Atmospheric Research]
+| Property | Value |
+|---|---|
+| **ID** | `haarp` |
+| **Category** | CONSPIRACY_THEORY |
+| **Subcategory** | Government / military secret-weapon conspiracy |
+| **First recorded** | 1990 |
+| **Primary range** | Conspiracy theory primarily anglophone with substantial Latin American (Spanish), Russian, and Chinese-language uptake |
+| **Status** | active |
 
-**Category**: CONSPIRACY_THEORY  
-**Location**: Gakona, Alaska, USA  
-**Status**: Real facility; conspiracy claims unsubstantiated; transferred to civilian control 2015  
-**Reality**: Legitimate scientific research; capabilities far less than claimed; physics doesn't support weather/earthquake/mind control theories
+---
+## Overview
+
+The High-frequency Active Auroral Research Program (HAARP) is an actual ionospheric research instrument located near Gakona, Alaska. The programme was initiated in 1990 with site construction beginning in 1993; full operations of the 3.6 MW, 180-antenna Ionospheric Research Instrument (IRI) were achieved in 2007. HAARP was originally jointly funded by the U.S. Air Force, U.S. Navy, and DARPA, with the University of Alaska Fairbanks as primary academic partner. In May 2014 the Air Force announced its intent to close the facility; ownership was transferred to the University of Alaska Fairbanks in August 2015, and HAARP now operates on a campaign / pay-per-use basis. From the mid-1990s onward — particularly after Nick Begich Jr. and Jeane Manning's 1995 book Angels Don't Play This HAARP — the facility has been the central object of a sprawling conspiracy theory complex alleging that it is a covert weapon for weather control, mass mind control, earthquake and tsunami generation, ionospheric warfare, or other clandestine purposes. These claims have been promoted by figures including Jesse Ventura (Conspiracy Theory with Jesse Ventura, 2009), Hugo Chávez, and a wide variety of online commentators. They are rejected by ionospheric physicists — notably Stanford's Umran Inan — and by the U.S. National Academy of Sciences, who note that HAARP's radiated power is many orders of magnitude smaller than natural atmospheric phenomena (a single lightning flash, for instance) and cannot meaningfully alter weather, mass behaviour, or seismic activity.
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| HAARP | English (acronym) | High-frequency Active Auroral Research Program |
+| the Gakona Array | Alaska, USA |  |
+
+## Etymology
+
+- **Origin**: English acronym: 'High-frequency Active Auroral Research Program'.
+- **Meaning**: A research program studying the ionosphere using high-frequency (HF) radio waves to excite the auroral plasma.
+- **First use**: Programme name in use from c. 1990 (US Air Force / Navy / DARPA initiation)
+
+---
+## Related Phenomena
+
+- [Chemtrails](../chemtrails/) — _related_: Aerial geoengineering / weather-control conspiracy
+- [MKUltra](../mk-ultra/) — _related_: Historical CIA mind-control program; HAARP claims often invoke MKUltra as precedent
+- [Philadelphia Experiment](../philadelphia-experiment/) — _similar_: Government secret-weapon legend (1943)
+- [Tesla 'death ray'](../tesla-death-ray/) — _similar_: Earlier-20th-century directed-energy superweapon legend cited in HAARP literature
+
+---
+## Physical Description
+
+- **Morphology**: A real terrestrial radio-physics observatory comprising a phased-array transmitter, support buildings, and diagnostic instrumentation. Conspiracy theories project additional clandestine capabilities onto this physical base.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Ionospheric Research Instrument (IRI) | 180-antenna phased array operating between 2.7 and 10 MHz, 3.6 MW radiated power | always |
+| Diagnostic instruments | Co-located ionosondes, magnetometers, riometers, and optical/lidar sensors | always |
+| Site at Gakona, Alaska | Located on a US Air Force-built site at approx. 62.39° N, 145.15° W | always |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Ionospheric excitation | Heat a localized region of the ionosphere by HF radio injection to study plasma physics | always | documented |
+| Weather control (claimed) | Conspiracy claim of triggering hurricanes, droughts, and floods | common | speculation |
+| Earthquake / tsunami generation (claimed) | Conspiracy claim of seismic events triggered by HAARP | common | speculation |
+| Mass mind control (claimed) | Conspiracy claim of behaviour modification via ELF radiation | common | speculation |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: unknown
+- **Social structure**: unknown
+- **Habitat**: online conspiracy communities, syndicated talk radio (Coast to Coast AM), alternative media
+
+---
+## Distribution
+
+Conspiracy theory primarily anglophone with substantial Latin American (Spanish), Russian, and Chinese-language uptake. Real facility is in Alaska.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| HAARP, Gakona, Alaska | Alaska, United States |  | 1990–present |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1990 | HAARP programme initiated under joint US Air Force, Navy, and DARPA funding | Birth of the actual research facility |
+| 1993 | Construction begins at the Gakona, Alaska site | Physical facility takes shape |
+| 1995 | Nick Begich Jr. and Jeane Manning publish Angels Don't Play This HAARP | Foundational text of the HAARP conspiracy |
+| 2007 | HAARP IRI achieves full 3.6 MW operational capability | Operational milestone; cited by both researchers and conspiracy theorists |
+| 2009-12-09 | Conspiracy Theory with Jesse Ventura airs the 'HAARP' episode on truTV | Major mass-media amplification of HAARP claims |
+| 2010-01-20 | Venezuelan president Hugo Chávez accuses the United States of using HAARP to cause the 12 January 2010 Haiti earthquake | Geopolitically prominent invocation of the conspiracy |
+| 2014-05 | US Air Force announces intent to close the HAARP facility | Misread by some conspiracy theorists as concealment |
+| 2015-08 | HAARP is transferred to the University of Alaska Fairbanks | Facility continues as an academic resource; conspiracies persist |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Angels Don't Play This HAARP | 1995 | Begich & Manning's foundational conspiracy text. The book is a widely-circulated source of HAARP claims, but its scientific content is rejected by ionospheric physicists. | disputed |
+| Conspiracy Theory with Jesse Ventura — 'HAARP' | 2009-12-09 | Episode of the truTV programme alleging HAARP weather and mind-control capabilities; central in mass-media amplification. | disputed |
+
+---
+## Theories & Explanations
+
+### Scientific
+
+**Ionospheric heating research (actual programme)** _(University of Alaska Fairbanks, Stanford University (Umran Inan), US Naval Research Laboratory)_
+
+HAARP studies the ionosphere by injecting HF radio energy and observing plasma response. Scientific outputs include results in radio physics, plasma physics, and space weather, published in peer-reviewed journals such as Geophysical Research Letters and Radio Science.
+
+### Skeptical
+
+**Powerless against weather and seismicity (Inan)** _(Umran Inan (Stanford), National Academies)_
+
+HAARP's radiated power is many orders of magnitude smaller than the natural energies of weather and seismic systems; no plausible mechanism exists for HF ionospheric heating to drive hurricanes or earthquakes.
+
+**Cultural-political conspiracy theory** _(Michael Barkun, skeptical commentators)_
+
+Sociologists of conspiracy treat HAARP claims as a 1990s outgrowth of US distrust of government, exploiting genuine military/DARPA funding and the visual oddness of a remote phased-array installation.
+
+
+## Popular Culture
+
+**Literature**: Nick Begich Jr. & Jeane Manning, Angels Don't Play This HAARP (1995); Jerry E. Smith, HAARP: The Ultimate Weapon of the Conspiracy (1998)
+
+**Film / TV**: Conspiracy Theory with Jesse Ventura, 'HAARP' (truTV, 2009); The X-Files (recurring 'weather control' references); Stargate SG-1 — energy-weapon plotlines often associated with HAARP-style facilities
+
+**Games**: Tom Clancy's Splinter Cell: Chaos Theory (2005) features a HAARP-like plot device; Various conspiracy-thriller indie games
+
+**Music**: Muse — Drones (2015) and earlier Origin of Symmetry-era references to HAARP-like technologies; Buckethead — 'HAARP' (instrumental piece)
+
+**Other**: Recurring topic on Coast to Coast AM
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Umran Inan | Stanford University (electrical engineering) | Major academic researcher using HAARP for ionospheric studies and prominent debunker of HAARP weather-control claims | 1990s–present |
+| Nick Begich Jr. | Earthpulse Press | Principal author of the modern HAARP conspiracy literature | 1995–present |
+| Jerry E. Smith | independent author | Successor conspiracy author; HAARP: The Ultimate Weapon of the Conspiracy (1998) | 1990s–2010s |
+
+### Organizations
+
+- [HAARP at the University of Alaska Fairbanks](https://haarp.gi.alaska.edu) — Operates the actual HAARP facility for ionospheric research
+- [Committee for Skeptical Inquiry (CSI)](https://skepticalinquirer.org) — Sceptical examination of HAARP claims
+
+Active scientific research using HAARP continues at the University of Alaska Fairbanks; conspiracy claims are addressed in popular-science and skeptical publications.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

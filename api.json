@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/haarp",
     "maintainers": [
       {
@@ -16,72 +16,133 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "haarp",
-    "name": "HAARP - High-frequency Active Auroral Research Program Conspiracy Theories",
-    "aliases": [],
-    "category": "CONSPIRACY_THEORY",
-    "subcategory": "of energy",
-    "tags": [
-      "folklore",
-      "mythology"
+    "name": "HAARP Conspiracy Theories",
+    "aliases": [
+      { "name": "HAARP", "language": "English (acronym)", "meaning": "High-frequency Active Auroral Research Program" },
+      { "name": "the Gakona Array", "region": "Alaska, USA" }
     ],
-    "status": "documented",
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "Government / military secret-weapon conspiracy",
+    "tags": [
+      "conspiracy-theory",
+      "ionosphere",
+      "weather-modification",
+      "mind-control",
+      "darpa",
+      "alaska",
+      "united-states",
+      "pseudoscience"
+    ],
+    "status": "active",
     "description": {
-      "summary": "HAARP (High-frequency Active Auroral Research Program) is a real scientific research facility in Gakona, Alaska, that has become the subject of numerous conspiracy theories claiming it serves as a secret weapon for weather modification, mind control, earthquake generation, or other nefarious purposes.",
-      "full": "HAARP (High-frequency Active Auroral Research Program) is a real scientific research facility in Gakona, Alaska, that has become the subject of numerous conspiracy theories claiming it serves as a secret weapon for weather modification, mind control, earthquake generation, or other nefarious purposes. The facility uses high-frequency radio transmitters to study the ionosphere (upper atmosphere) for scientific and communications purposes, but conspiracy theorists claim these capabilities are cover for covert military applications."
+      "summary": "HAARP is a real ionospheric research facility near Gakona, Alaska, but it has become the focus of a long-running set of conspiracy theories that allege it is a secret weather-modification, mind-control, or earthquake-generation weapon.",
+      "full": "The High-frequency Active Auroral Research Program (HAARP) is an actual ionospheric research instrument located near Gakona, Alaska. The programme was initiated in 1990 with site construction beginning in 1993; full operations of the 3.6 MW, 180-antenna Ionospheric Research Instrument (IRI) were achieved in 2007. HAARP was originally jointly funded by the U.S. Air Force, U.S. Navy, and DARPA, with the University of Alaska Fairbanks as primary academic partner. In May 2014 the Air Force announced its intent to close the facility; ownership was transferred to the University of Alaska Fairbanks in August 2015, and HAARP now operates on a campaign / pay-per-use basis. From the mid-1990s onward — particularly after Nick Begich Jr. and Jeane Manning's 1995 book Angels Don't Play This HAARP — the facility has been the central object of a sprawling conspiracy theory complex alleging that it is a covert weapon for weather control, mass mind control, earthquake and tsunami generation, ionospheric warfare, or other clandestine purposes. These claims have been promoted by figures including Jesse Ventura (Conspiracy Theory with Jesse Ventura, 2009), Hugo Chávez, and a wide variety of online commentators. They are rejected by ionospheric physicists — notably Stanford's Umran Inan — and by the U.S. National Academy of Sciences, who note that HAARP's radiated power is many orders of magnitude smaller than natural atmospheric phenomena (a single lightning flash, for instance) and cannot meaningfully alter weather, mass behaviour, or seismic activity."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "English acronym: 'High-frequency Active Auroral Research Program'.",
+      "meaning": "A research program studying the ionosphere using high-frequency (HF) radio waves to excite the auroral plasma.",
+      "first_use": "Programme name in use from c. 1990 (US Air Force / Navy / DARPA initiation)"
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CONSPIRACY_THEORY",
-      "type": "of energy",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Government / military secret-weapon conspiracy",
+      "subtype": "Technological superweapon",
+      "variant": "Weather-control / mind-control / earthquake-weapon variants"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "chemtrails", "name": "Chemtrails", "relationship": "related", "description": "Aerial geoengineering / weather-control conspiracy" },
+      { "id": "mk-ultra", "name": "MKUltra", "relationship": "related", "description": "Historical CIA mind-control program; HAARP claims often invoke MKUltra as precedent" },
+      { "id": "philadelphia-experiment", "name": "Philadelphia Experiment", "relationship": "similar", "description": "Government secret-weapon legend (1943)" },
+      { "id": "tesla-death-ray", "name": "Tesla 'death ray'", "relationship": "similar", "description": "Earlier-20th-century directed-energy superweapon legend cited in HAARP literature" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Ionospheric Research Instrument (IRI)", "description": "180-antenna phased array operating between 2.7 and 10 MHz, 3.6 MW radiated power", "frequency": "always" },
+        { "feature": "Diagnostic instruments", "description": "Co-located ionosondes, magnetometers, riometers, and optical/lidar sensors", "frequency": "always" },
+        { "feature": "Site at Gakona, Alaska", "description": "Located on a US Air Force-built site at approx. 62.39° N, 145.15° W", "frequency": "always" }
+      ],
+      "morphology": "A real terrestrial radio-physics observatory comprising a phased-array transmitter, support buildings, and diagnostic instrumentation. Conspiracy theories project additional clandestine capabilities onto this physical base."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Ionospheric excitation", "description": "Heat a localized region of the ionosphere by HF radio injection to study plasma physics", "frequency": "always", "evidence_level": "documented" },
+      { "ability": "Weather control (claimed)", "description": "Conspiracy claim of triggering hurricanes, droughts, and floods", "frequency": "common", "evidence_level": "speculation" },
+      { "ability": "Earthquake / tsunami generation (claimed)", "description": "Conspiracy claim of seismic events triggered by HAARP", "frequency": "common", "evidence_level": "speculation" },
+      { "ability": "Mass mind control (claimed)", "description": "Conspiracy claim of behaviour modification via ELF radiation", "frequency": "common", "evidence_level": "speculation" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
+      "activity_period": "variable",
       "disposition": "unknown",
-      "habitat_preference": []
+      "social_structure": "unknown",
+      "habitat_preference": ["online conspiracy communities", "syndicated talk radio (Coast to Coast AM)", "alternative media"],
+      "patterns": [
+        "Spike in HAARP-blame claims after major natural disasters (e.g. 2010 Haiti earthquake, 2011 Tōhoku earthquake, 2017 Hurricane Harvey)",
+        "Repeated rebooting of the conspiracy after every operational milestone (full IRI 2007, closure 2014, transfer 2015)"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Conspiracy theory primarily anglophone with substantial Latin American (Spanish), Russian, and Chinese-language uptake. Real facility is in Alaska.",
+      "continents": ["North America", "Europe", "South America", "Asia"],
+      "countries": ["United States", "Russia", "Venezuela", "Iran"],
+      "regions": ["Gakona, Alaska (real)", "global online conspiracy networks"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "HAARP, Gakona, Alaska",
+        "location": {
+          "description": "Actual HAARP facility in Copper River Census Area, Alaska",
+          "country": "United States",
+          "region": "Alaska",
+          "coordinates": { "latitude": 62.3925, "longitude": -145.1521 }
+        },
+        "peak_period": "1990–present",
+        "notes": "Operational research facility; coordinates are public."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1995",
+        "circa": false,
+        "source": "Begich, N. & Manning, J. (1995), Angels Don't Play This HAARP"
+      },
+      "peak_activity_periods": [
+        { "period": "1995–2005", "description": "Foundational conspiracy literature (Begich & Manning, Jerry Smith)" },
+        { "period": "2009–2014", "description": "Mass-media amplification through Conspiracy Theory with Jesse Ventura and major-disaster invocations (Haiti 2010, Tōhoku 2011)" },
+        { "period": "2017–present", "description": "Social-media-driven hurricane and wildfire blame (Harvey, Maria, Maui 2023)" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "1990s American conspiracy culture, drawing on older 'Tesla weapon' traditions and Cold War electromagnetic-weapon anxieties.",
+      "earliest_accounts": "Nick Begich Jr. and Jeane Manning's Angels Don't Play This HAARP: Advances in Tesla Technology (Earthpulse Press, 1995) is the first sustained popular conspiracy treatment.",
+      "folklore_connections": "Heir to chemtrails, the Philadelphia Experiment, the Montauk Project, and 'Tesla death ray' lore."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1990", "event": "HAARP programme initiated under joint US Air Force, Navy, and DARPA funding", "significance": "Birth of the actual research facility", "source": "Wikipedia, 'High-frequency Active Auroral Research Program'" },
+      { "date": "1993", "event": "Construction begins at the Gakona, Alaska site", "significance": "Physical facility takes shape", "source": "Wikipedia, 'HAARP'" },
+      { "date": "1995", "event": "Nick Begich Jr. and Jeane Manning publish Angels Don't Play This HAARP", "significance": "Foundational text of the HAARP conspiracy", "source": "Begich & Manning (1995)" },
+      { "date": "2007", "event": "HAARP IRI achieves full 3.6 MW operational capability", "significance": "Operational milestone; cited by both researchers and conspiracy theorists", "source": "Wikipedia, 'HAARP'" },
+      { "date": "2009-12-09", "event": "Conspiracy Theory with Jesse Ventura airs the 'HAARP' episode on truTV", "significance": "Major mass-media amplification of HAARP claims", "source": "truTV broadcast (S1E6)" },
+      { "date": "2010-01-20", "event": "Venezuelan president Hugo Chávez accuses the United States of using HAARP to cause the 12 January 2010 Haiti earthquake", "significance": "Geopolitically prominent invocation of the conspiracy", "source": "ABC News, 21 January 2010" },
+      { "date": "2014-05", "event": "US Air Force announces intent to close the HAARP facility", "significance": "Misread by some conspiracy theorists as concealment", "source": "Wikipedia, 'HAARP'" },
+      { "date": "2015-08", "event": "HAARP is transferred to the University of Alaska Fairbanks", "significance": "Facility continues as an academic resource; conspiracies persist", "source": "Wikipedia, 'HAARP'" }
+    ],
+    "modern_era": "HAARP claims persist on social media, frequently invoked in the wake of any large natural disaster. The University of Alaska Fairbanks now runs annual public-engagement open houses, in part to counter the conspiracy narrative."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +153,114 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "haarp-evidence-begich-1995",
+        "type": "book",
+        "name": "Angels Don't Play This HAARP",
+        "date": "1995",
+        "description": "Begich & Manning's foundational conspiracy text. The book is a widely-circulated source of HAARP claims, but its scientific content is rejected by ionospheric physicists.",
+        "status": "disputed",
+        "analysis": "Often cited as the principal modern starting point for HAARP conspiracy theories.",
+        "source": "Begich, N. & Manning, J. (1995)"
+      },
+      {
+        "id": "haarp-evidence-conspiracy-theory-2009",
+        "type": "documentary",
+        "name": "Conspiracy Theory with Jesse Ventura — 'HAARP'",
+        "date": "2009-12-09",
+        "description": "Episode of the truTV programme alleging HAARP weather and mind-control capabilities; central in mass-media amplification.",
+        "status": "disputed",
+        "source": "truTV (2009)"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Ionospheric heating research (actual programme)",
+        "description": "HAARP studies the ionosphere by injecting HF radio energy and observing plasma response. Scientific outputs include results in radio physics, plasma physics, and space weather, published in peer-reviewed journals such as Geophysical Research Letters and Radio Science.",
+        "proponents": ["University of Alaska Fairbanks", "Stanford University (Umran Inan)", "US Naval Research Laboratory"],
+        "evidence_cited": ["Peer-reviewed publications", "National Academies report (2014) on the future of HAARP"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Powerless against weather and seismicity (Inan)",
+        "description": "HAARP's radiated power is many orders of magnitude smaller than the natural energies of weather and seismic systems; no plausible mechanism exists for HF ionospheric heating to drive hurricanes or earthquakes.",
+        "proponents": ["Umran Inan (Stanford)", "National Academies"],
+        "evidence_cited": ["3.6 MW radiated power vs. petajoules of energy in mesoscale weather systems", "Energy of a single lightning flash exceeds HAARP's emission"]
+      },
+      {
+        "name": "Cultural-political conspiracy theory",
+        "description": "Sociologists of conspiracy treat HAARP claims as a 1990s outgrowth of US distrust of government, exploiting genuine military/DARPA funding and the visual oddness of a remote phased-array installation.",
+        "proponents": ["Michael Barkun", "skeptical commentators"],
+        "evidence_cited": ["Pattern of attributing every disaster to HAARP regardless of physical plausibility", "Continuous reframing through political flashpoints"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": ["American conspiracy culture, post-1990s"],
+      "stories": [
+        "HAARP-caused Haiti earthquake (Hugo Chávez, 2010)",
+        "HAARP-caused Hurricane Sandy (2012)",
+        "HAARP-caused 2011 Tōhoku earthquake and tsunami",
+        "HAARP-caused 2023 Maui wildfires"
+      ],
+      "beliefs": "Believers regard HAARP as a literal superweapon; sceptics regard the conspiracy as a folkloric attribution pattern attached to a real but mundane research facility."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Nick Begich Jr. & Jeane Manning, Angels Don't Play This HAARP (1995)",
+        "Jerry E. Smith, HAARP: The Ultimate Weapon of the Conspiracy (1998)"
+      ],
+      "film_tv": [
+        "Conspiracy Theory with Jesse Ventura, 'HAARP' (truTV, 2009)",
+        "The X-Files (recurring 'weather control' references)",
+        "Stargate SG-1 — energy-weapon plotlines often associated with HAARP-style facilities"
+      ],
+      "games": [
+        "Tom Clancy's Splinter Cell: Chaos Theory (2005) features a HAARP-like plot device",
+        "Various conspiracy-thriller indie games"
+      ],
+      "music": [
+        "Muse — Drones (2015) and earlier Origin of Symmetry-era references to HAARP-like technologies",
+        "Buckethead — 'HAARP' (instrumental piece)"
+      ],
+      "other": [
+        "Recurring topic on Coast to Coast AM"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Umran Inan", "affiliation": "Stanford University (electrical engineering)", "contribution": "Major academic researcher using HAARP for ionospheric studies and prominent debunker of HAARP weather-control claims", "period": "1990s–present" },
+      { "name": "Nick Begich Jr.", "affiliation": "Earthpulse Press", "contribution": "Principal author of the modern HAARP conspiracy literature", "period": "1995–present" },
+      { "name": "Jerry E. Smith", "affiliation": "independent author", "contribution": "Successor conspiracy author; HAARP: The Ultimate Weapon of the Conspiracy (1998)", "period": "1990s–2010s" }
+    ],
+    "organizations": [
+      { "name": "HAARP at the University of Alaska Fairbanks", "url": "https://haarp.gi.alaska.edu", "focus": "Operates the actual HAARP facility for ionospheric research" },
+      { "name": "Committee for Skeptical Inquiry (CSI)", "url": "https://skepticalinquirer.org", "focus": "Sceptical examination of HAARP claims" }
+    ],
+    "ongoing_studies": "Active scientific research using HAARP continues at the University of Alaska Fairbanks; conspiracy claims are addressed in popular-science and skeptical publications."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-haarp", "type": "website", "title": "High-frequency Active Auroral Research Program", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/High-frequency_Active_Auroral_Research_Program", "accessed": "2026-05-07" },
+    { "id": "haarp-uaf", "type": "website", "title": "HAARP — University of Alaska Fairbanks", "url": "https://haarp.gi.alaska.edu", "accessed": "2026-05-07" },
+    { "id": "begich-manning-1995", "type": "book", "title": "Angels Don't Play This HAARP: Advances in Tesla Technology", "authors": ["Nick Begich Jr.", "Jeane Manning"], "publication": "Earthpulse Press", "date": "1995", "isbn": "978-0964881204" },
+    { "id": "smith-1998", "type": "book", "title": "HAARP: The Ultimate Weapon of the Conspiracy", "authors": ["Jerry E. Smith"], "publication": "Adventures Unlimited Press", "date": "1998", "isbn": "978-0932813534" }
+  ]
 }
